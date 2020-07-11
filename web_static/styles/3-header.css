@@ -9,5 +9,8 @@ header {
     width: 145px;
     height: 60px;
     margin-left: 20px;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
     background: url("../images/logo.png") no-repeat;
 }
